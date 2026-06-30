@@ -2,7 +2,7 @@
 [![Github followers](https://img.shields.io/github/followers/hodvak?style=social&label=Follow)](https://github.com/hodvak?tab=followers)
 
 ## Who Am I? ##
-Hello, my name is Hadar Liel Harush and I'm a Computer Science student at Hadassah Academic College.
+Hello, my name is Hadar Liel Harush.
 
 ### A Little Bit More ###
 ```python3
